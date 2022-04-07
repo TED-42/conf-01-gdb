@@ -6,4 +6,4 @@
 * **3_memory_theory** : théorie sur la mémoire
 * **4_GDB** : Gdb avancé, les extensions utiles sur gdb
 * **5_valgrind** : Valgrind
-* **6_TED-42** : Présentation association TED 42
+* **6_TED_42** : Présentation association TED 42
